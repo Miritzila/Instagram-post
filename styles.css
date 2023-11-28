@@ -1,0 +1,57 @@
+.body {
+    padding: 50px;
+    background-color: black;
+}
+
+.post {
+    margin: auto;
+    width: 600px;
+    height: 750px;
+    padding: 10px;
+}
+
+.post-header {
+    display: flex;
+    background-color: white;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius:150px;
+    padding: 10px;
+}
+
+.texto {
+    display: flex;
+    align-self: auto;
+}
+
+.mas {
+    padding: 30px;
+    flex-direction: row-reverse;
+    margin-left: 400px;
+}
+
+.post-img {
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.post-icons {
+    background-color: white;
+    align-content: center;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.fa-bookmark {
+    margin-left: 475px;
+}
+
+.post-body {
+    background-color: white;
+    padding: 10px;
+}
